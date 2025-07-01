@@ -14,6 +14,13 @@
 
 Ứng dụng mô phỏng quy trình mã hóa tin nhắn thoại từ khâu handshake, trao đổi khóa, đến mã hóa và xác thực nội dung.
 
+## 📷 Demo hình ảnh
+![image](https://github.com/user-attachments/assets/55d61749-d862-4adf-8e56-7b23b65c9be8)
+
+![image](https://github.com/user-attachments/assets/6ced6fe9-0b07-4601-bc6d-215d7c5b1933)
+
+![image](https://github.com/user-attachments/assets/b45729c4-5c75-46eb-8a98-8ad7ccd7e61e)
+
 ## 🔐 Tính năng Bảo mật
 
 ### Mã hóa Lai (Hybrid Encryption)
@@ -66,12 +73,12 @@
 
 ```
 BTL_ATBMTT/
-├── 📄 app.py                 # WebSocket Server Backend
-├── 📄 crypto_utils.py        # Crypto Utilities Module
-├── 📄 index.html             # Frontend User Interface
-├── 📄 requirements.txt       # Python Dependencies
-├── 📊 encryption_log.json    # Security Event Logs
-└── 📖 README.md              # Documentation
+├── 📄 app.py                 
+├── 📄 crypto_utils.py      
+├── 📄 index.html            
+├── 📄 requirements.txt      
+├── 📊 encryption_log.json   
+└── 📖 README.md             
 ```
 
 ## 🛠️ Cài đặt và Triển khai
